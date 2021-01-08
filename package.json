@@ -1,0 +1,33 @@
+{
+  "name": "easy-rest-api",
+  "version": "1.0.0",
+  "description": "Easy reusable REST API library",
+  "author": "Alexey Chenosov <alex.chenosov@gmail.com>",
+  "homepage": "https://github.com/alxche",
+  "license": "GNU",
+  "main": "lib/index.js",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "node-fetch": "^2.6.1"
+  },
+  "peerDependencies": {},
+  "engines": {
+    "node": ">=8"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxche/easy-rest-api.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/alxche/easy-rest-api/issues"
+  }
+}
